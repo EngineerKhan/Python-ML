@@ -17,8 +17,9 @@ All these notes are in JuPyter notebook format and hence can be directly run loc
 By November, 2024, I am expecting to add: 
 
 - A couple of blogs on **Vector databases**.
-- A couple of blogs on some API examples.
-- A blog on Web Scraping.
+- A blog on some API examples.
+- Maybe a blog on Web Scraping.
+- A blog on Mathematical background.
 
 
 ### Suggestions?
